@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Tharun Kumaar
 
-<!--
-**TharunKumaarU/TharunKumaarU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently a Final-year B.Tech CSE student @ Kalasalingam Academy  
+🌱 I’m interning as an AI Engineer at Missan IT Solutions (FastAPI, PostgreSQL, Kubernetes)  
+💻 I build:
+- Mobile apps with **Flutter & Firebase**  
+- APIs with **FastAPI** & **PostgreSQL**  
+- Data-driven dashboards (Python, Pandas, PowerBI)  
+🤖 I love **deep-learning** (CNN crop-disease prediction) & exploring **LLM integration** with V0.dev & Cursor AI  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tharun-kumaar-u)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Languages & Tools
+
+<p>
+  <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="left" alt="FastAPI" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" />
+  <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
+</p>
+<div style="clear: both;"></div>

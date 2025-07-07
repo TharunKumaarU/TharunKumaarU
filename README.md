@@ -6,7 +6,7 @@
 - Mobile apps with **Flutter & Firebase**  
 - APIs with **FastAPI** & **PostgreSQL**  
 - Data-driven dashboards (Python, Pandas, PowerBI)  
-🤖 I love **deep-learning** (CNN crop-disease prediction) & exploring **LLM integration** with V0.dev & Cursor AI  
+🤖 I love **deep-learning** (CNN crop-disease prediction)
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tharun-kumaar-u)
 
 ---

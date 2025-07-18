@@ -4,9 +4,8 @@
 🌱 I’m interning as an AI Engineer at Missan IT Solutions (FastAPI, PostgreSQL, Kubernetes)  
 💻 I build:
 - Mobile apps with **Flutter & Firebase**  
-- APIs with **FastAPI** & **PostgreSQL**  
+- APIs with **FastAPI**   
 - Data-driven dashboards (Python, Pandas, PowerBI)  
-🤖 I love **deep-learning** (CNN crop-disease prediction)
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tharun-kumaar-u)
 
 ---

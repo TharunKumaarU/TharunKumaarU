@@ -1,7 +1,6 @@
-# 👋 Hi, I’m Tharun Kumaar
+# 👋 Hi, I’m Tharun Kumaar U
 
-🔭 I’m currently a Final-year B.Tech CSE student @ Kalasalingam Academy  
-🌱 I’m interning as an AI Engineer at Missan IT Solutions (FastAPI, PostgreSQL, Kubernetes)  
+🔭 Software Development Engineer | Al-Augmented Development |
 💻 I build:
 - Mobile apps with **Flutter & Firebase**  
 - APIs with **FastAPI**   

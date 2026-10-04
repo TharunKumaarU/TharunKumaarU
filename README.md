@@ -1,20 +1,14 @@
-# 👋 Hi, I’m Tharun Kumaar U
+### Hi, I'm Tharun 👋
+Software Engineer · Backend & AI Systems · Sharjah, UAE
 
-🔭 Software Development Engineer | Al-Augmented Development |
-💻 I build:
-- Mobile apps with **Flutter & Firebase**  
-- APIs with **FastAPI**   
-- Data-driven dashboards (Python, Pandas, PowerBI)  
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/tharun-kumaar-u)
+I build production systems end to end — schema, API, web, mobile, deployment, support.
+Currently at Missan IT Solutions; going deeper into LLM applications (RAG, agents, evals).
 
----
+**Open playbooks** — what I've learned building real systems:
+- [Seamless Offline Architecture](https://github.com/TharunKumaarU/seamless-offline-architecture) — offline-first sync, outbox, idempotency
+- [Multi-Tenant B2B SaaS](https://github.com/TharunKumaarU/Multi-Tenant-B2B-SaaS) — tenant isolation with Postgres RLS, RBAC, billing
+- [Brownfield Django](https://github.com/TharunKumaarU/brownfield-django-playbook) — safely taking over a live app
 
-### 🔧 Languages & Tools
+**Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · React · TypeScript · Flutter · Docker · nginx · IIS
 
-<p>
-  <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
-  <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
-  <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-</p>
-<div style="clear: both;"></div>
+🌐 [tharunkumaaru.github.io](https://tharunkumaaru.github.io) · 💼 [LinkedIn](https://linkedin.com/in/tharun-kumaar-u)
